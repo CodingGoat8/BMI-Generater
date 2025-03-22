@@ -1,0 +1,64 @@
+
+
+html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+.container{
+    /* border: 2px solid red; */
+    margin: 50px 300px 0px 90px;
+    width: 80%;
+    text-align: center;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(245, 88, 88);
+    border-radius: 5px;
+    border: 1.5px solid rgb(43, 42, 42);
+    margin-bottom: 10px;
+
+}
+
+button:hover{
+    background-color: rgb(251, 170, 170);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
